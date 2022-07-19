@@ -10,8 +10,8 @@ _Student details:_
 - Chun Mok: cmok0004@student.monash.edu
 
 _Assignment code base:_
-- Riordan Alfredo: riordan.alfredo1@monash.edu 
-- Nawfal Ali: Nawfal.Ali@monash.edu 
+- Riordan Alfredo (TA)
+- Nawfal Ali (SE)
 
 
 _Plagarism Notice:_
