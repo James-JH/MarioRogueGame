@@ -3,6 +3,7 @@
 A Mario text-based "rogue-like" game.
 
 **Credits** 
+
 _Student details:_
 - James Huynh: jhuy0014@student.monash.edu
 - Matthew Siegenthaler: msie0003@student.monash.edu
