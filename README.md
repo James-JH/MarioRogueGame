@@ -10,8 +10,11 @@ _Student details:_
 - Chun Mok: cmok0004@student.monash.edu
 
 _Assignment code base:_
-- Riordan Alfredo (TA)
+_(Teaching team)_:
+- Roberto Martinez-Maldonado (CE)
 - Nawfal Ali (SE)
+- Riordan Dervin Alfredo (TA)
+
 
 
 _Plagiarism Notice:_
