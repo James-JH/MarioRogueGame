@@ -1,4 +1,4 @@
-**FIT2099 - Object-orientated design and implementation - Assignment** 
+**Object-orientated design and implementation - Assignment** 
 
 A Mario text-based "rogue-like" game.
 
