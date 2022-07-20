@@ -9,8 +9,8 @@ _Student details:_
 - Matthew Siegenthaler: msie0003@student.monash.edu
 - Chun Mok: cmok0004@student.monash.edu
 
-_Assignment code base:_
-_(Teaching team)_:
+_Assignment code base_
+_(teaching team)_:
 - Roberto Martinez-Maldonado (CE)
 - Nawfal Ali (SE)
 - Riordan Dervin Alfredo (TA)
